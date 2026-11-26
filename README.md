@@ -25,7 +25,7 @@
 <a href="https://github.com/solarkinn#year-list-container">
 <picture>
   <source media="(max-width: 640px)" srcset="./assets/contribution-observatory-mobile.svg" />
-  <img src="./assets/contribution-observatory.svg" width="100%" alt="GitHub contribution grid: 1277 contributions, 128 active days, 19-day longest streak. Past 30 days: 145; past 7 days: 31. Full text readout below." />
+  <img src="./assets/contribution-observatory.svg" width="100%" alt="GitHub contribution grid: 1277 contributions, 128 active days, 19-day longest streak. Past 30 days: 131; past 7 days: 27. Full text readout below." />
 </picture>
 </a>
 
@@ -37,15 +37,15 @@
 | Past 365 days | 1277 contributions |
 | Days active | 128 of 365 |
 | Longest streak | 19 consecutive days in this window |
-| Past 30 days | 145 contributions |
-| Past 7 days | 31 contributions |
-| Window | 2025-11-26 → 2026-11-25 |
+| Past 30 days | 131 contributions |
+| Past 7 days | 27 contributions |
+| Window | 2025-11-27 → 2026-11-26 |
 | Peak day | 38 contributions · 2026-07-28 |
-| Latest day | 3 contributions · 2026-11-25 (still in progress) |
+| Latest day | 0 contributions · 2026-11-26 (still in progress) |
 
 One 3D tile per UTC day; weeks in columns, Sunday–Saturday in rows. Height and green intensity: 0, 1–3, 4–9, 10–19, 20+ contributions. Blank cells fall outside the window. The teal scanner and its muted trail are decorative. Counts include GitHub contributions, not just commits.
 
-<sub>Last refreshed: <b>2026-11-25 23:38:25 UTC</b> · Scheduled hourly; GitHub may delay runs.</sub>
+<sub>Last refreshed: <b>2026-11-26 08:22:44 UTC</b> · Scheduled hourly; GitHub may delay runs.</sub>
 
 [View GitHub contribution calendar](https://github.com/solarkinn#year-list-container) · [Update history](https://github.com/solarkinn/solarkinn/actions/workflows/contribution-observatory.yml)
 
